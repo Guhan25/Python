@@ -1,5 +1,5 @@
 a=int(raw_input())
 if(a%2==0):
-  print("even")
+ print ("a is even")
 else:
-  print("odd")
+ print ("a is odd")
