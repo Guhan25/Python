@@ -1,9 +1,10 @@
-a=int(input("Enter the number:"))
-if(a<0):
+n=int(input("Enter the number:"))
+x=int(input("enter no.of digits to be added:"))
+if(n<0):
     print("wrong input")
 else:
-    for i in range(a):
+    for i in range(n):
         print(i+1)
-    z=int(input("enter no.of digits to be added:"))
-    sum=z*(z+1)/2
+    sum=x*(x+1)/2
+    print("the sum is ")
     print (sum)
