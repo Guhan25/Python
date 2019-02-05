@@ -1,6 +1,6 @@
 n=int(input(""))
-m=int(input(""))
-for num in range(n,m+1):
+n1=int(input(""))
+for num in range(n,n1+1):
    sum=0
    l=num
    while l>0:
