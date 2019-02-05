@@ -1,4 +1,4 @@
-n =371
+n =12
 sum=0 
 p=n 
 while p > 0: 
