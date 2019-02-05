@@ -5,4 +5,3 @@ for i in range(1,n+1):
     o.append(b)
 o.sort()
 print(o)
-
