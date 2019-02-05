@@ -1,4 +1,4 @@
-n =12
+n = int(input("")) 
 sum=0 
 p=n 
 while p > 0: 
