@@ -1,5 +1,5 @@
-n=int(input(""))
-n1=int(input(""))
+n=int(input())
+n1=int(input())
 for num in range(n,n1+1):
    sum=0
    l=num
